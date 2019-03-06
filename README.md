@@ -1,1 +1,21 @@
-# Arc_Continent_Analysis
+# Arc-continent collisions in the tropics set Earth’s climate state
+
+This repository contains data and code associated with the following Report published in Science in March 2019:
+
+**Arc-continent collisions in the tropics set Earth’s climate state**
+
+Macdonald, F.M.,  Swanson-Hysell, N.L., Park, Y., Lisiecki, L., and Jagoutz, O.
+
+## Description of code
+
+Within the main repository folder is a Jupyter notebook entitled **suture_analysis.ipynb** that contains code that utilizes the suture compilation and the paleogeographic models to conduct the analysis and develop the visualizations associated with the study. This notebook relies on the **recon_tools.py** function library developed in conjunction with this research that is also within the main repository folder. This code relies on the pyGPlates module (https://www.gplates.org/docs/pygplates/) that enables the functionality of the GPlates software package to be programmatically accessed using Python.
+
+## Data and model files
+
+### paleogeo_models
+
+This folder contains rotation files and polygon outlines for the paleogeographic models used for the reconstruction. The individual datafiles are described in more detail within **suture_analysis.ipynb**.
+
+### suture_data
+
+This folder contains the compilation of ophiolite-bearing sutures that was constructed for this study and used for the analysis. The main shapefile is Suture_Lines.shp and this shapefile was modified for reconstruction with the paleogeographic models in subfolders. This compilation is visualized within the **suture_analysis.ipynb** Jupyter notebook.
