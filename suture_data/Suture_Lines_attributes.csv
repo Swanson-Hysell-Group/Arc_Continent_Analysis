@@ -1,0 +1,116 @@
+ID,NAME,REF,MAGMAX,MAGMIN,METMAX,METMIN,EXMAX,EXMIN,PLATEID_CE,PLATEID_M,LENGTH_KM
+35,Quetta,Beck et al. (1995),80,65,65,35,66,49,501,501,1279
+34,Tsangpo,"Jagoutz et al. (2015); Hebert et al. (2012)",165,120,153,50,50,0,501,501,2698
+60,NewGuinea,"Baldwin et al. (2012); Cloos et al. (2005)",190,56,58,15,15,0,680,698,1996
+61,Cyclops,Monnier et al. (1999a),43,29,29,16,4,0,697,697,310
+64,Halmahera,"Hall et al. (1988); Ballantyne (1996)",165,66,66,35,4,0,680,680,595
+67,EastPhilippines,"Pubellier et al. (1991); Yumul et al. (2007)",180,23,107,11,20,0,678,678,1761
+68,WestPhilippines,"Yumul et al. (2009; 2013)",160,23,48,11,5,0,674,674,717
+65,EastSulawesi,"Parkinson (1988); Villeneuve et al. (2002)",60,40,34,23,23,0,667,667,905
+62,Seram,"Monnier et al. (2003); Pownall et al. (2016)",20,10,16,6,6,0,681,681,228
+63,Obi,Ali et al. (2001),116,60,60,35,4,0,670,567,101
+66,Borneo_Palawan,"Monnier et al. (1999b); Omag & Barber (1996)",198,76,100,11,23,0,677,61405,1958
+58,Banda,Harris (2006),83,3,36,0,5,0,683,652,573
+59,Java,Wakita (2000),198,100,90,66,8,0,673,736,713
+82,Woyla,Pedersen et al. (2010),95,48,90,48,60,40,647,647,2636
+80,Bentong-Raub,Metcalfe (2013),400,300,300,250,250,235,647,647,418
+41,Chengning-Menglian,"Jian et al. (2009); Metcalfe (2013)",386,264,264,250,250,235,603,60301,1557
+37,Bangong,"Zhai et al. (2011); Zhang et al. (2012)",471,244,244,135,90,78,616,606,2321
+40,Ailaoshan,"Zi et al. (2012); Metcalfe (2013)",387,341,341,247,247,237,602,602,1102
+55,Dabie-Sulu,Ratschbacher et al. (2004),488,470,470,440,250,210,601,601,1015
+51,Derba_Olkhon,"Dobretsov&Buslov (2007); Cherkasova et al. (2015)",579,480,490,430,490,430,401,401,1089
+49,Agardagh-Khantaishir,Bold et al. (2016),580,550,550,540,540,530,432,432,1554
+50,Bayankhongor,"Buchan et al. (2001); Donskaya et al. (2013)",653,651,650,200,160,140,432,401,398
+52,Kurtushiba,Volkova et al. (2011),470,465,470,430,470,430,431,431,304
+47,Central Asian,Xiao et al. (2015),360,250,330,250,250,240,453,453,1881
+48,Transaltai,Kroner et al. (2010),415,390,390,360,360,300,455,455,2319
+43,Tianshan-Tarim,Wang et al. (2011),397,387,387,361,360,330,451,451,1580
+38,NW Kunlun,"Schwab et al. (2004); Xiao et al. (2002)",474,458,451,384,250,210,456,456,1190
+46,Maikain-Kyzyltas,Choulet et al. (2012),503,460,460,440,458,419,1021,462,674
+44,Erementay-Yili,Domeier (2018),530,460,443,413,443,413,1019,460,338
+45,Junggar-Balkhash,Han et al. (2010),490,344,344,316,316,270,461,464,657
+53,Uralian,Brown et al. (2006),488,392,416,275,315,265,302,302,3191
+39,Jinsha,"Schwab et al. (2004); Yang et al. (2012)",290,258,230,190,230,195,616,616,1998
+42,Kunlun,"Schwab et al. (2004); Xiao et al. (2002)",474,244,451,384,250,210,456,456,1714
+36,WestJinsha,Schwab et al. (2004),290,258,230,190,230,195,616,616,1110
+4,Laurentia-Dashwoods,"van Staal & Barr (2012); Macdonald et al. (2017)",560,475,475,450,465,440,101,101,360
+3,Moretown-Laurentia,"De Souza et al. (2008); Macdonald et al. (2017)",560,475,475,450,465,440,101,101,1224
+2,Piedmont-Laurentia,Misra & Keller (1978),560,460,475,450,465,440,101,101,1347
+8,Avalon-Gander,vanStaal&Barr (2012),440,423,421,400,390,350,108,108,214
+1,McKlintock,Trettin et al. (1992),510,475,480,450,465,430,134,124,435
+6,Scandanavian_Caledonides,"Pederson & Furnes (1991); Gee et al. (2008)",498,470,475,450,465,430,302,302,1695
+5,Amorica-Avalonia,Clark et al. (1998),400,380,380,370,380,360,315,315,1735
+7,Scottish Caledonides,Hollis et al. (2013),484,470,470,464,465,440,303,315,623
+78,West Alpine,Michard et al. (2002),200,100,50,30,50,30,304,304,3236
+32,Pontides (Sananadaj),"Okay & Tuysuz (1999); Bozkurt et al. (2013)",165,120,153,50,70,35,581,521,1829
+13,Southern Cordilleran,"Sepulveda et al. (2008); Calderon et al. (2016)",270,100,120,80,100,70,291,28011,798
+12,Pampian,"Ramos et al. (2000); Escayola et al. (2007)",700,600,600,540,580,515,290,2901,1351
+22,Northern Caribbean,"Lazaro et al. (2009); Kerr et al. (2002)",124,72,106,68,70,40,233,274,1125
+16,Anguyucham,"Wirth & Bird (1992); Moore et al. (2015)",187,184,171,160,146,90,103,18103,1366
+20,Southern Slide Mountain,"Burchfiel et al. (1992); Snow et al. (1991)",376,252,360,252,265,230,16104,16104,2412
+21,Resurrection,"Haeussler et al. (2003); Lytwyn et al. (1997)",68,50,60,45,50,35,16121,16121,1608
+15,Cordilleran,"Shervais et al. (2005); Wakabayashi (2012)",172,160,160,123,100,80,161,176,1628
+71,Amazon-SaoFrancisco,"Caxito et al. (2014); Tassinari et al. (2001)",820,620,650,620,620,600,201,201,2959
+11,Precordillera,Ramos et al. (2000),540,470,470,359,400,359,290,202,867
+73,Mauritanide-Bassaride,El Hadi et al. (2010),743,697,660,635,650,615,714,714,1068
+74,Trans-Saharan,Caby et al. (1989,730,705,710,620,635,600,714,714,1672
+14,N. Andean,"Kerr et al. (2002; 2005); Mann (1999)",124,72,50,40,60,30,247,201,1644
+70,Dom Feliciano,Arena et al. (2017),923,758,758,722,722,585,202,701,995
+24,Southern Caribbean,"Kerr et al. (2002); Mann (1999)",124,72,106,68,10,0,251,235,705
+23,Western Caribbean,"Kerr et al. (2002); Mann (1999)",124,72,106,68,70,40,205,205,450
+17,Windy-McKinley,"Murphy et al. (2006); Parsons et al. (2018)",376,252,360,252,265,230,16104,16104,742
+18,Finlayson,"Murphy et al (2006); Parsons et al. (2018)",376,252,360,252,265,230,16104,16104,419
+19,North Slide Mountain,"Murphy et al. (2006); Parsons et al. (2018)",376,252,360,252,265,230,16104,16104,399
+69,Damara,"Meneghini et al. (2017); Miller (2008)",780,740,580,530,545,515,701,701,398
+31,Semail,"Rioux et al. (2016); Sengor & Stock (2014)",97,90,90,72,90,72,503,503,677
+77,Yenesei,Vernikovsky et al. (2007),750,650,700,635,650,635,401,401,575
+57,Japan,Ishiwatari & Tsujimori (2003),600,280,330,220,250,210,630,630,891
+75,Verkhoyansk,Osman (2003),430,180,180,135,170,110,420,420,872
+27,NE Japan,"Ishiwatari et al. (2003); Isozaki (2010)",170,150,170,0,20,0,624,624,1446
+56,Primorye,Ishiwatari & Tsujimori (2003),622,430,330,220,250,210,454,454,1321
+26,Koryak,Ishiwatari et al. (2003),600,100,200,15,20,0,438,44103,991
+54,Mongol-Okhotsk,Donskaya et al. (2013),380,200,250,150,160,140,430,430,2775
+76,Taimyr,Vernikovsky & Vernikovskaya (2001),850,740,740,600,700,550,401,401,627
+25,Kamchatka,Tsukanov et al. (2007),110,60,60,40,40,0,438,44100,593
+9,East Tasman,Foster et al. (2009),370,250,360,240,260,240,848,801,1637
+10,West Tasman,Foster et al. (2009),520,505,520,430,505,410,801,801,424
+28,Hercynian-Europe,"Kroner & Romer (2013); Hartley & Otava (2001)",498,390,390,330,335,300,305,305,3654
+79,Maghebrides,"Michard et al. (2002);Alvarez-Valero et al. (2014)",40,20,23,10,23,0,706,718,3371
+81,MtVictoria-Kawlun,Burchfiel et al. (2012),165,120,153,50,40,0,607,607,1279
+72,Arabian-Nubian,Johnson (2014),845,675,780,600,650,580,503,503,4129
+83,Mahkran,"Moghadam & Stern (2015); Tirrul et al. (1983)",165,120,153,72,90,72,582,50602,489
+84,Sistan,"Brocker et al. (2013); Tirrul et al. (1983)",114,85,85,65,83,65,506,505,754
+85,Alborz,Moghadam & Stern (2014),599,522,382,330,300,250,392,301,2733
+33,Shyok,Bouilhol et al. (2013),120,40,120,0,40,0,563,517,2065
+30,Sananadaj-Sirjan,"Moghadam & Stern (2015); Sengor & Stock (2014)",97,90,90,72,90,72,503,503,3556
+87,South_Anyui1,Moore et al. (2015),187,184,171,160,146,90,407,43300,450
+88,South_Anyui2,Moore et al. (2015),187,184,171,160,146,90,407,43300,1091
+89,Hispaniola,Mann (1999),124,72,106,68,10,0,240,254,846
+90,Avalon_Meritimes,van Staal & Baar (2012),440,223,421,400,421,400,108,108,605
+91,Avalon_NewEngland,van Staal & Barr (2012),440,423,421,400,421,400,108,108,182
+92,Meguma,van Staal & Baar (2012),400,380,400,380,390,350,170,108,879
+93,Maurintanides,"Pique & Michard (1989); Villanueve (2005)",498,390,390,330,335,295,714,714,812
+94,Avalon_Britian,Pharroah (1999),440,423,421,400,421,400,315,315,566
+95,Caledonides_Greenland,Gee et al. (2008),498,470,475,430,465,430,102,102,1245
+96,Caledonides_Svalbard,Gee et al. (2008),498,470,475,430,465,430,309,309,282
+97,Kudi-Altyn,"Xiao et al. (2002); Liu et al. (2016)",526,458,490,444,475,444,480,580,1326
+98,Pie de Palo,Ramos et al. (2000),1090,1027,1030,475,475,444,290,202,276
+29,Magnitogorsk,Brown et al. (2006),488,392,416,375,375,358,302,302,2653
+100,Shan states,Metcalf (2013),250,155,155,120,155,120,607,7250,1098
+102,Xiaoshing-Pingxiang,"Hsu et al. (1990); Cawood et al. (2013)",900,850,900,850,850,800,602,602,1573
+103,Slonoker,Xiao et al. (2015),360,250,330,250,250,240,401,401,1019
+104,Anarek-Dehshir,Moghadam & Stern (2015),97,90,90,72,90,72,582,505,1020
+105,Zagros,Alavi (1994),90,65,70,0,10,0,582,505,2500
+106,Inner Taurus,Alavi (1994),90,65,70,0,10,0,504,522,850
+99,Ogcheon,Cluzel (1992),480,430,430,330,430,330,601,601,383
+107,Tuarkyr,Garzanti & Gaetani (2002),360,310,340,290,330,300,302,302,2258
+108,New Caledonia,Cluzel et al. (2012),220,50,60,34,44,33,806,845,591
+109,Tangihua,Nicholson et al. (2000),220,50,60,34,44,33,806,806,298
+110,Dun_North,"Sivell & McCulloch (2010); Grey & Foster (2004)",285,265,160,100,130,90,806,806,151
+111,Dun_South,Sivell & McCulloch,285,265,160,100,130,90,806,806,159
+112,Northland,"Whattam et al. (2006); Marsaglia et al. (2014)",35,15,26,20,23,15,806,806,205
+113,Caltepec,"Nance et al. (2010); Gleason et al. (1995)",480,275,350,320,335,295,215,215,1019
+114,Alleghenian,Nance et al. (2010),390,300,390,295,335,295,109,109,1169
+115,Qilian,Song et al. (2014),540,500,473,446,446,420,601,601,2074
+116,Kyrgyz Middle Tianshan,Alexeiev et al. (2016),467,445,460,450,458,444,1019,1019,732
+117,Kyrgyz North Tianshan,"Alexeiev et al. (2011); Domeier (2018)",534,508,508,474,485,470,1019,1019,1016
