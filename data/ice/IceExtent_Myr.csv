@@ -1,0 +1,527 @@
+﻿AGE (MA),LATITUDE FROM POLE,GLACIATED REGION,REFERENCE
+0,50,USA Midwest,Ehlers & Gibbard (2007)
+1,50,USA Midwest,Ehlers & Gibbard (2007)
+2,40,Canada,Ehlers & Gibbard (2007)
+3,30,Greenland,Ehlers & Gibbard (2007)
+4,30,Greenland,Ehlers & Gibbard (2007)
+5,30,Greenand,Ehlers & Gibbard (2007)
+6,30,Antarctic Peninsula,Ehlers & Gibbard (2007)
+7,30,Antarctic Peninsula,Ehlers & Gibbard (2007)
+8,30,Antarctic Peninsula,Ehlers & Gibbard (2007)
+9,30,Antarctic Peninsula,Ehlers & Gibbard (2007)
+10,30,Antarctic Peninsula,Ehlers & Gibbard (2007)
+11,30,Antarctic Peninsula,Ehlers & Gibbard (2007)
+12,30,Antarctic Peninsula,Ehlers & Gibbard (2007)
+13,30,Antarctic Peninsula,Ehlers & Gibbard (2007)
+14,25,Antarctica,Dingle & Lavelle (1998); Troedson & Riding (2002)
+15,20,Antarctica,Dingle & Lavelle (1998); Troedson & Riding (2002)
+16,20,Antarctica,Dingle & Lavelle (1998); Troedson & Riding (2002)
+17,20,Antarctica,Dingle & Lavelle (1998); Troedson & Riding (2002)
+18,20,Antarctica,Dingle & Lavelle (1998); Troedson & Riding (2002)
+19,20,Antarctica,Dingle & Lavelle (1998); Troedson & Riding (2002)
+20,20,Antarctica,Dingle & Lavelle (1998); Troedson & Riding (2002)
+21,20,Antarctica,Dingle & Lavelle (1998); Troedson & Riding (2002)
+22,20,Antarctica,Dingle & Lavelle (1998); Troedson & Riding (2002)
+23,20,Antarctica,Dingle & Lavelle (1998); Troedson & Riding (2002)
+24,20,Antarctica,Dingle & Lavelle (1998); Troedson & Riding (2002)
+25,20,Antarctica,Dingle & Lavelle (1998); Troedson & Riding (2002)
+26,25,Antarctica,Dingle & Lavelle (1998); Troedson & Riding (2002)
+27,30,Antarctic Peninsula,Ivany et al. (2006)
+28,30,Antarctic Peninsula,Ivany et al. (2006)
+29,30,Antarctic Peninsula,Ivany et al. (2006)
+30,30,Antarctic Peninsula,Ivany et al. (2006)
+31,30,Antarctic Peninsula,Ivany et al. (2006)
+32,30,Antarctic Peninsula,Ivany et al. (2006)
+33,30,Antarctic Peninsula,Ivany et al. (2006)
+34,20,Antarctica,Zachos et al. (2001); De Boer et al. (2010)
+35,10,Antarctica,Zachos et al. (2001); De Boer et al. (2010)
+36,10,Antarctica,Zachos et al. (2001); De Boer et al. (2010)
+37,10,Antarctica,Zachos et al. (2001); De Boer et al. (2010)
+38,0,-,Crowley (1988)
+39,0,-,Crowley (1988)
+40,0,-,Crowley (1988)
+41,0,-,Crowley (1988)
+42,0,-,Crowley (1988)
+43,0,-,Crowley (1988)
+44,0,-,Crowley (1988)
+45,0,-,Crowley (1988)
+46,0,-,Crowley (1988)
+47,0,-,Crowley (1988)
+48,0,-,Crowley (1988)
+49,0,-,Crowley (1988)
+50,0,-,Crowley (1988)
+51,0,-,Crowley (1988)
+52,0,-,Crowley (1988)
+53,0,-,Crowley (1988)
+54,0,-,Crowley (1988)
+55,0,-,Crowley (1988)
+56,0,-,Crowley (1988)
+57,0,-,Crowley (1988)
+58,0,-,Crowley (1988)
+59,0,-,Crowley (1988)
+60,0,-,Crowley (1988)
+61,0,-,Crowley (1988)
+62,0,-,Crowley (1988)
+63,0,-,Crowley (1988)
+64,0,-,Crowley (1988)
+65,0,-,Crowley (1988)
+66,0,-,Crowley (1988)
+67,0,-,Crowley (1988)
+68,0,-,Crowley (1988)
+69,0,-,Crowley (1988)
+70,0,-,Crowley (1988)
+71,0,-,Crowley (1988)
+72,0,-,Crowley (1988)
+73,0,-,Crowley (1988)
+74,0,-,Crowley (1988)
+75,0,-,Crowley (1988)
+76,0,-,Crowley (1988)
+77,0,-,Crowley (1988)
+78,0,-,Crowley (1988)
+79,0,-,Crowley (1988)
+80,0,-,Crowley (1988)
+81,0,-,Crowley (1988)
+82,0,-,Crowley (1988)
+83,0,-,Crowley (1988)
+84,0,-,Crowley (1988)
+85,0,-,Crowley (1988)
+86,0,-,Crowley (1988)
+87,0,-,Crowley (1988)
+88,0,-,Crowley (1988)
+89,0,-,Crowley (1988)
+90,0,-,Crowley (1988)
+91,0,-,Crowley (1988)
+92,0,-,Crowley (1988)
+93,0,-,Crowley (1988)
+94,0,-,Crowley (1988)
+95,0,-,Crowley (1988)
+96,0,-,Crowley (1988)
+97,0,-,Crowley (1988)
+98,0,-,Crowley (1988)
+99,0,-,Crowley (1988)
+100,0,-,Crowley (1988)
+101,0,-,Crowley (1988)
+102,0,-,Crowley (1988)
+103,0,-,Crowley (1988)
+104,0,-,Crowley (1988)
+105,0,-,Crowley (1988)
+106,0,-,Crowley (1988)
+107,0,-,Crowley (1988)
+108,0,-,Crowley (1988)
+109,0,-,Crowley (1988)
+110,0,-,Crowley (1988)
+111,0,-,Crowley (1988)
+112,0,-,Crowley (1988)
+113,0,-,Crowley (1988)
+114,0,-,Crowley (1988)
+115,0,-,Crowley (1988)
+116,0,-,Crowley (1988)
+117,0,-,Crowley (1988)
+118,0,-,Crowley (1988)
+119,0,-,Crowley (1988)
+120,0,-,Crowley (1988)
+121,0,-,Crowley (1988)
+122,0,-,Crowley (1988)
+123,0,-,Crowley (1988)
+124,0,-,Crowley (1988)
+125,0,-,Crowley (1988)
+126,0,-,Crowley (1988)
+127,0,-,Crowley (1988)
+128,0,-,Crowley (1988)
+129,0,-,Crowley (1988)
+130,0,-,Crowley (1988)
+131,0,-,Crowley (1988)
+132,0,-,Crowley (1988)
+133,0,-,Crowley (1988)
+134,0,-,Crowley (1988)
+135,0,-,Crowley (1988)
+136,0,-,Crowley (1988)
+137,0,-,Crowley (1988)
+138,0,-,Crowley (1988)
+139,0,-,Crowley (1988)
+140,0,-,Crowley (1988)
+141,0,-,Crowley (1988)
+142,0,-,Crowley (1988)
+143,0,-,Crowley (1988)
+144,0,-,Crowley (1988)
+145,0,-,Crowley (1988)
+146,0,-,Crowley (1988)
+147,0,-,Crowley (1988)
+148,0,-,Crowley (1988)
+149,0,-,Crowley (1988)
+150,0,-,Crowley (1988)
+151,0,-,Crowley (1988)
+152,0,-,Crowley (1988)
+153,0,-,Crowley (1988)
+154,0,-,Crowley (1988)
+155,0,-,Crowley (1988)
+156,0,-,Crowley (1988)
+157,0,-,Crowley (1988)
+158,0,-,Crowley (1988)
+159,0,-,Crowley (1988)
+160,0,-,Crowley (1988)
+161,0,-,Crowley (1988)
+162,0,-,Crowley (1988)
+163,0,-,Crowley (1988)
+164,0,-,Crowley (1988)
+165,0,-,Crowley (1988)
+166,0,-,Crowley (1988)
+167,0,-,Crowley (1988)
+168,0,-,Crowley (1988)
+169,0,-,Crowley (1988)
+170,0,-,Crowley (1988)
+171,0,-,Crowley (1988)
+172,0,-,Crowley (1988)
+173,0,-,Crowley (1988)
+174,0,-,Crowley (1988)
+175,0,-,Crowley (1988)
+176,0,-,Crowley (1988)
+177,0,-,Crowley (1988)
+178,0,-,Crowley (1988)
+179,0,-,Crowley (1988)
+180,0,-,Crowley (1988)
+181,0,-,Crowley (1988)
+182,0,-,Crowley (1988)
+183,0,-,Crowley (1988)
+184,0,-,Crowley (1988)
+185,0,-,Crowley (1988)
+186,0,-,Crowley (1988)
+187,0,-,Crowley (1988)
+188,0,-,Crowley (1988)
+189,0,-,Crowley (1988)
+190,0,-,Crowley (1988)
+191,0,-,Crowley (1988)
+192,0,-,Crowley (1988)
+193,0,-,Crowley (1988)
+194,0,-,Crowley (1988)
+195,0,-,Crowley (1988)
+196,0,-,Crowley (1988)
+197,0,-,Crowley (1988)
+198,0,-,Crowley (1988)
+199,0,-,Crowley (1988)
+200,0,-,Crowley (1988)
+201,0,-,Crowley (1988)
+202,0,-,Crowley (1988)
+203,0,-,Crowley (1988)
+204,0,-,Crowley (1988)
+205,0,-,Crowley (1988)
+206,0,-,Crowley (1988)
+207,0,-,Crowley (1988)
+208,0,-,Crowley (1988)
+209,0,-,Crowley (1988)
+210,0,-,Crowley (1988)
+211,0,-,Crowley (1988)
+212,0,-,Crowley (1988)
+213,0,-,Crowley (1988)
+214,0,-,Crowley (1988)
+215,0,-,Crowley (1988)
+216,0,-,Crowley (1988)
+217,0,-,Crowley (1988)
+218,0,-,Crowley (1988)
+219,0,-,Crowley (1988)
+220,0,-,Crowley (1988)
+221,0,-,Crowley (1988)
+222,0,-,Crowley (1988)
+223,0,-,Crowley (1988)
+224,0,-,Crowley (1988)
+225,0,-,Crowley (1988)
+226,0,-,Crowley (1988)
+227,0,-,Crowley (1988)
+228,0,-,Crowley (1988)
+229,0,-,Crowley (1988)
+230,0,-,Crowley (1988)
+231,0,-,Crowley (1988)
+232,0,-,Crowley (1988)
+233,0,-,Crowley (1988)
+234,0,-,Crowley (1988)
+235,0,-,Crowley (1988)
+236,0,-,Crowley (1988)
+237,0,-,Crowley (1988)
+238,0,-,Crowley (1988)
+239,0,-,Crowley (1988)
+240,0,-,Crowley (1988)
+241,0,-,Crowley (1988)
+242,0,-,Crowley (1988)
+243,0,-,Crowley (1988)
+244,0,-,Crowley (1988)
+245,0,-,Crowley (1988)
+246,0,-,Crowley (1988)
+247,0,-,Crowley (1988)
+248,0,-,Crowley (1988)
+249,0,-,Crowley (1988)
+250,0,-,Crowley (1988)
+251,0,-,Crowley (1988)
+252,0,-,Crowley (1988)
+253,0,-,Crowley (1988)
+254,0,-,Crowley (1988)
+255,0,-,Crowley (1988)
+256,0,-,Crowley (1988)
+257,0,-,Crowley (1988)
+258,0,-,Crowley (1988)
+259,0,-,Crowley (1988)
+260,10,,
+261,10,,
+262,10,,
+263,10,,
+264,10,,
+265,10,,
+266,10,,
+267,10,,
+268,10,,
+269,10,,
+270,10,,
+271,10,,
+272,10,,
+273,10,,
+274,10,,
+275,10,,
+276,10,,
+277,15,,
+278,20,,
+279,20,,
+280,20,,
+281,20,,
+282,20,,
+283,20,,
+284,20,,
+285,20,,
+286,20,,
+287,20,,
+288,20,,
+289,20,,
+290,20,,
+291,20,,
+292,20,,
+293,20,,
+294,25,,
+295,30,,
+296,35,,
+297,40,,
+298,45,,
+299,50,,
+300,50,,
+301,50,,
+302,50,,
+303,50,,
+304,50,,
+305,50,,
+306,50,,
+307,50,,
+308,50,,
+309,50,,
+310,40,,
+311,40,,
+312,40,,
+313,40,,
+314,40,,
+315,40,,
+316,40,,
+317,40,,
+318,40,,
+319,40,,
+320,40,,
+321,40,,
+322,40,,
+323,40,,
+324,40,,
+325,40,,
+326,40,,
+327,40,,
+328,40,,
+329,40,,
+330,40,,
+331,40,,
+332,35,,
+333,30,,
+334,25,,
+335,20,,
+336,15,,
+337,10,,
+338,5,,
+339,0,,
+340,0,,
+341,0,,
+342,0,,
+343,0,,
+344,0,,
+345,0,,
+346,0,,
+347,0,,
+348,0,,
+349,0,,
+350,0,,
+351,0,,
+352,0,,
+353,0,,
+354,0,,
+355,0,,
+356,0,,
+357,0,,
+358,10,,
+359,20,,
+360,20,,
+361,10,,
+362,10,,
+363,10,,
+364,10,,
+365,10,,
+366,0,,
+367,0,,
+368,0,,
+369,0,,
+370,0,,
+371,0,,
+372,0,,
+373,0,,
+374,0,,
+375,0,,
+376,0,,
+377,0,,
+378,0,,
+379,0,,
+380,0,,
+381,0,,
+382,0,,
+383,0,,
+384,0,,
+385,0,,
+386,0,,
+387,0,,
+388,0,,
+389,0,,
+390,0,,
+391,0,,
+392,0,,
+393,0,,
+394,0,,
+395,0,,
+396,0,,
+397,0,,
+398,0,,
+399,0,,
+400,0,,
+401,0,,
+402,0,,
+403,0,,
+404,0,,
+405,0,,
+406,0,,
+407,0,,
+408,0,,
+409,0,,
+410,0,,
+411,0,,
+412,0,,
+413,0,,
+414,0,,
+415,0,,
+416,0,,
+417,0,,
+418,0,,
+419,0,,
+420,0,,
+421,0,,
+422,0,,
+423,0,,
+424,0,,
+425,0,,
+426,0,,
+427,0,,
+428,0,,
+429,0,,
+430,0,,
+431,0,,
+432,0,,
+433,0,,
+434,0,,
+435,0,,
+436,0,,
+437,0,,
+438,0,,
+439,0,,
+440,10,,
+441,20,,
+442,30,,
+443,40,,
+444,50,,
+445,50,,
+446,40,,
+447,30,,
+448,30,,
+449,30,,
+450,30,,
+451,30,,
+452,30,,
+453,25,,
+454,20,,
+455,15,,
+456,10,,
+457,10,,
+458,10,,
+459,0,,
+460,0,,
+461,0,,
+462,0,,
+463,0,,
+464,0,,
+465,0,,
+466,0,,
+467,0,,
+468,0,,
+469,0,,
+470,0,,
+471,0,,
+472,0,,
+473,0,,
+474,0,,
+475,0,,
+476,0,,
+477,0,,
+478,0,,
+479,0,,
+480,0,,
+481,0,,
+482,0,,
+483,0,,
+484,0,,
+485,0,,
+486,0,,
+487,0,,
+488,0,,
+489,0,,
+490,0,,
+491,0,,
+492,0,,
+493,0,,
+494,0,,
+495,0,,
+496,0,,
+497,0,,
+498,0,,
+499,0,,
+500,0,,
+501,0,,
+502,0,,
+503,0,,
+504,0,,
+505,0,,
+506,0,,
+507,0,,
+508,0,,
+509,0,,
+510,0,,
+511,0,,
+512,0,,
+513,0,,
+514,0,,
+515,0,,
+516,0,,
+517,0,,
+518,0,,
+519,0,,
+520,0,,
+521,0,,
+522,0,,
+523,0,,
+524,0,,
+525,0,,
