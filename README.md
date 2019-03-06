@@ -8,14 +8,26 @@ Macdonald, F.M.,  Swanson-Hysell, N.L., Park, Y., Lisiecki, L., and Jagoutz, O.
 
 ## Description of code
 
-Within the main repository folder is a Jupyter notebook entitled **suture_analysis.ipynb** that contains code that utilizes the suture compilation and the paleogeographic models to conduct the analysis and develop the visualizations associated with the study. This notebook relies on the **recon_tools.py** function library developed in conjunction with this research that is also within the main repository folder. This code relies on the pyGPlates module (https://www.gplates.org/docs/pygplates/) that enables the functionality of the GPlates software package to be programmatically accessed using Python.
+Within the main repository folder is a Jupyter notebook entitled **suture_analysis.ipynb** that contains code that utilizes the suture compilation and the paleogeographic models to conduct the analysis and develop the visualizations associated with the study. This notebook relies on the **recon_tools.py** function library developed in conjunction with this research that is also within the main repository folder. This code, and that of the notebook, relies on the pyGPlates module (https://www.gplates.org/docs/pygplates/) that enables the functionality of the GPlates software package to be programmatically accessed using Python. With the exception of the pyGPlates module, which needs to be installed locally and added to the Python path, the computational environment is specificed within the **suture_analysis.yml** file.
 
-## Data and model files
+## data folder
 
-### paleogeo_models
+### continental_arcs folder
 
-This folder contains rotation files and polygon outlines for the paleogeographic models used for the reconstruction. The individual datafiles are described in more detail within **suture_analysis.ipynb**.
+This folder contains a .csv files with the compilation of continental arc length from Cao et al. (2017).
 
-### suture_data
+### ice folder
+
+This folder contains the compilation of latitudinal extent of ice sheets through time.
+
+### sutures folder
 
 This folder contains the compilation of ophiolite-bearing sutures that was constructed for this study and used for the analysis. The main shapefile is Suture_Lines.shp and this shapefile was modified for reconstruction with the paleogeographic models in subfolders. This compilation is visualized within the **suture_analysis.ipynb** Jupyter notebook.
+
+## paleogeo_models folder
+
+This folder contains rotation files and polygon outlines for the paleogeographic models used for the reconstructions. The individual datafiles are described in more detail within **suture_analysis.ipynb**.
+
+## code_output folder
+
+This folder contains figures and tables that are output from the code. The associated visualizations were used to make the figures within the manuscript and supplementary materials.
