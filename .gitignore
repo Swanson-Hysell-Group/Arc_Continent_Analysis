@@ -1,3 +1,6 @@
+# ignore LIP shapefiles for now
+data/LIPs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
