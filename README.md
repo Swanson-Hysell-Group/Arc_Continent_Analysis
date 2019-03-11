@@ -1,10 +1,8 @@
 # Arc-continent collisions in the tropics set Earth’s climate state
 
-This repository contains data and code associated with the following Report published in Science in March 2019:
+This repository contains data and code associated with the following paper:
 
-**Arc-continent collisions in the tropics set Earth’s climate state**
-
-Macdonald, F.M.,  Swanson-Hysell, N.L., Park, Y., Lisiecki, L., and Jagoutz, O.
+Macdonald, F.M.,  Swanson-Hysell, N.L., Park, Y., Lisiecki, L., and Jagoutz, O. (2019) **Arc-continent collisions in the tropics set Earth’s climate state** *Science* 10.1126/science.aav5300
 
 ## Description of code
 
