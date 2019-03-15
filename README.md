@@ -2,7 +2,7 @@
 
 This repository contains data and code associated with the following paper:
 
-Macdonald, F.M.,  Swanson-Hysell, N.L., Park, Y., Lisiecki, L., and Jagoutz, O. (2019) **Arc-continent collisions in the tropics set Earth’s climate state** *Science* 10.1126/science.aav5300
+Macdonald, F.M.,  Swanson-Hysell, N.L., Park, Y., Lisiecki, L., and Jagoutz, O. (2019) **Arc-continent collisions in the tropics set Earth’s climate state** *Science* 10.1126/science.aav5300 https://doi.org/10.1126/science.aav5300
 
 ## Description of code
 
