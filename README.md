@@ -32,6 +32,8 @@ This folder contains the compilation of latitudinal extent of ice sheets through
 
 This folder contains the compilation of ophiolite-bearing sutures that was constructed for this study and used for the analysis. The main shapefile is Suture_Lines.shp and this shapefile was modified for reconstruction with the paleogeographic models in subfolders. This compilation is visualized within the **suture_analysis.ipynb** Jupyter notebook.
 
+*Note that the LIP_Outline_edited.shp data file that is used in the LIP_analysis.ipynb folder will be released in conjunction with the AGU book entitled <ins>Environmental Change and Large Igneous Provinces</ins> scheduled to be published in late 2019.*
+
 ## paleogeo_models folder
 
 This folder contains rotation files and polygon outlines for the paleogeographic models used for the reconstructions. The individual datafiles are described in more detail within **suture_analysis.ipynb**.
